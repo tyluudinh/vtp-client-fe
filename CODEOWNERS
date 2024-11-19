@@ -1,0 +1,6 @@
+[Devops] @vcscptsp 
+.deploy/*
+.gitlab/*
+.infra/*
+.gitlab-ci.yml
+CODEOWNERS

@@ -1,0 +1,42 @@
+{
+  "LOGIN": {
+    "TITLE": "Đăng nhập",
+    "USERNAME": "Tên đăng nhập",
+    "PASSWORD": "Mật khẩu"
+  },
+  "OTP": {
+    "TITLE": "Xác nhận OTP",
+    "RESEND_COUNTDOWN": "Gửi lại mã mới sau",
+    "RESEND_OTP": "Gửi lại mã OTP",
+    "CONTENT": "Chọn một phương thức xác thực dưới đây và nhập mã OTP được Vietcap cung cấp",
+    "BY_SMS": "Nhận OTP qua SMS",
+    "BY_EMAIL": "Nhận OTP qua Email"
+  },
+  "BUTTON": {
+    "LOGIN": "Đăng nhập",
+    "VERIFY_OTP": "Xác thực OTP",
+    "ACCEPT": "Đồng ý",
+    "CANCEL": "Hủy bỏ",
+    "CONFIRM": "Xác nhận"
+  },
+  "ERROR": {
+    "USERNAME_REQUIRED": "Tài khoản không được để trống",
+    "PASSWORD_REQUIRED": "Mật khẩu không được để trống",
+    "COMMON": "Đã có lỗi sảy ra. Vui lòng thử lại!",
+    "OTP_INVALID": "Mã OTP không chính xác"
+  },
+  "CONSENT": {
+    "TITLE": "Liên kết tài khoản",
+    "TERM_OF_USE": "Chính sách bảo mật",
+    "TERM_OF_USE_1": "Quý khách đang yêu cầu liên kết tài khoản của mình với tài khoản chứng khoán Vietcap thông qua đối tác của chúng tôi. Để tiếp tục, quý khách sẽ cần cung cấp thông tin và xác nhận bằng mã OTP.",
+    "TERM_OF_USE_2": "Khi quý khách nhấn <b>“Tiếp tục”</b>, thông tin cá nhân từ tài khoản đối tác sẽ được chia sẻ với Vietcap để hoàn tất quá trình liên kết.",
+    "TERM_OF_USE_2_DESC": "<ul style='margin-left: 32px'><li style='list-style-type: disc; list-style-position: outside'><b>Thông tin chia sẻ bao gồm:</b> tên đăng ký, số CMND/CCCD, số điện thoại, email và các thông tin cần thiết khác để xác thực và liên kết tài khoản.</li><li style='list-style-type: disc; list-style-position: outside'><b>Bảo mật thông tin:</b> Chúng tôi cam kết rằng các thông tin cá nhân sẽ được sử dụng duy nhất cho mục đích liên kết tài khoản và sẽ không được chia sẻ với bên thứ ba nào khác ngoài Vietcap và đối tác đã được ủy quyền của chúng tôi.</li></ul>",
+    "TERM_OF_USE_2_DESC_2": "<ul><li>Quá trình liên kết yêu cầu mã OTP sẽ được gửi đến số điện thoại đã đăng ký với Vietcap để đảm bảo an toàn.</li><li>Quý khách có thể xem thêm chi tiết trong <a href='https://www.vietcap.com.vn/api/cms-api/uploads/froala/files/DIEU%20KHOAN%20DIEU%20KIEN%20VE%20BAO%20VE%20&%20XU%20LY%20DU%20LIEU%20CA%20NHAN.pdf' target='_blank' style='color: #00B71F; font-weight: 600''>Chính sách bảo mật</a> của chúng tôi.</li></ul>",
+    "ACCEPT": "Tiếp tục và nhận OTP"
+  },
+  "SUCCESS": {
+    "TITLE": "Liên Kết Tài Khoản Thành Công",
+    "CONTENT": "Tài khoản của bạn đã liên kết với Vietcap thành công.",
+    "BACK_TO_APP": "Quay lại ứng dụng"
+  }
+}

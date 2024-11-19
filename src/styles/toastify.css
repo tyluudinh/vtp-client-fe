@@ -1,0 +1,34 @@
+.Toastify .Toastify__toast-container {
+  width: calc(100% - 32px);
+  left: 16px;
+  top: 4px;
+}
+
+.Toastify .Toastify__toast--error {
+  background-color: var(--color-danger);
+  color: #fff;
+}
+
+.Toastify .Toastify__toast {
+  min-height: 40px;
+  padding: 0;
+  border-radius: 4px;
+}
+
+.Toastify .Toastify__toast-body {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+.Toastify__toast .Toastify__progress-bar--wrp {
+  height: 2px;
+}
+
+.Toastify__toast .Toastify__progress-bar {
+  background-color: #fff;
+}
+
+.Toastify .Toastify__progress-bar--error {
+  background: #fff;
+}

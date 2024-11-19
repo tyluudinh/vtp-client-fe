@@ -1,0 +1,11 @@
+html[data-theme="dark"] {
+  --color-dark-system: #fff;
+  --color-gray-0: #111111;
+  --color-gray-5: #27272a;
+  --color-gray-10: #38383d;
+  --color-gray-80: #4c4c53;
+  --color-gray-100: #ffffff;
+  --color-secondary: #eff3f0;
+  --color-danger: #da2b1f;
+  --color-blue-system-500: #c5cedf;
+}

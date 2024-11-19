@@ -1,0 +1,42 @@
+{
+  "LOGIN": {
+    "TITLE": "Login",
+    "USERNAME": "Username",
+    "PASSWORD": "Password"
+  },
+  "OTP": {
+    "TITLE": "OTP Confirmation",
+    "RESEND_COUNTDOWN": "Resend OTP after",
+    "RESEND_OTP": "Resend OTP",
+    "CONTENT": "Select an authentication method below and enter the OTP code provided by Vietcap",
+    "BY_SMS": "Receive OTP via SMS",
+    "BY_EMAIL": "Receive OTP via Email"
+  },
+  "BUTTON": {
+    "LOGIN": "Login",
+    "VERIFY_OTP": "Verify OTP",
+    "ACCEPT": "Accept",
+    "CANCEL": "Cancel",
+    "CONFIRM": "Confirm"
+  },
+  "ERROR": {
+    "USERNAME_REQUIRED": "Username is required",
+    "PASSWORD_REQUIRED": "Password is required",
+    "COMMON": "An error has occurred. Please try again!",
+    "OTP_INVALID": "OTP code is invalid"
+  },
+  "CONSENT": {
+    "TITLE": "Link your account",
+    "TERM_OF_USE": "Privacy policy",
+    "TERM_OF_USE_1": "You are requesting to link your account with your Vietcap securities account through our partner. To proceed, you will need to provide information and confirm it via an OTP (One-Time Password).",
+    "TERM_OF_USE_2": "By clicking <b>“Continue”</b> personal information from your partner account will be shared with Vietcap to complete the account linking process.",
+    "TERM_OF_USE_2_DESC": "<ul style='margin-left: 32px'><li style='list-style-type: disc; list-style-position: outside'><b>Information shared includes:</b> your registered name, ID number (national ID/passport/…), phone number, email, and other necessary details for account verification and linking.</li><li style='list-style-type: disc; list-style-position: outside'><b>Data security:</b> We ensure that your personal information will only be used for the purpose of account linking and will not be shared with any third parties outside of Vietcap and our authorized partners.</li></ul>",
+    "TERM_OF_USE_2_DESC_2": "<ul><li>The linking process requires an OTP, which will be sent to the phone number registered with Vietcap to ensure security.</li><li>You can find more details in our <a href='https://www.vietcap.com.vn/api/cms-api/uploads/froala/files/DIEU%20KHOAN%20DIEU%20KIEN%20VE%20BAO%20VE%20&%20XU%20LY%20DU%20LIEU%20CA%20NHAN.pdf' target='_blank' style='color: #00B71F; font-weight: 600'>Privacy Policy.</a></li></ul>",
+    "ACCEPT": "Continue and receive OTP"
+  },
+  "SUCCESS": {
+    "TITLE": "Link Account Successful",
+    "CONTENT": "You have successfully linked to Vietcap's account.",
+    "BACK_TO_APP": "Back to your App"
+  }
+}
